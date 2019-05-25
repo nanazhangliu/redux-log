@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+.listContaier{
+  height: 290px;
+  overflow: scroll;
+  position: relative;
+}
+.item{
+  width: 400px;
+  height: 50px;
+  line-height: 50px;
+  background: green;
+  margin-bottom: 8px;
+}
